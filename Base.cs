@@ -1,5 +1,5 @@
-﻿int age = 10;
-if(age = 10)
+﻿int age = 18;
+if(age >= 18)
 {
     Console.WriteLine("He is Good Boy");
 }
